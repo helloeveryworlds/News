@@ -16,6 +16,7 @@ Back end:
 1. Launched a scalable web service in Go to handle posts and deployed the Google Cloud (Google App Engine).
 2. Used ElasticSearch (deployed the GCE) to provide search functions such that users can search recent posts and list personal posts.
 
+Demo link: [here](https://around.d1gf410g2jhe9n.amplifyapp.com/login)
 ## Install
 
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
